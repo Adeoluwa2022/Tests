@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * hsh - main shell loop

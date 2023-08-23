@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * _myhistory - displays the history list, one command by line, preceded

@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * input_buf - buffers chained commands

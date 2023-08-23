@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * interactive - returns true if shell is interactive mode

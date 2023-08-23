@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * _erratoi - converts a string to an integer

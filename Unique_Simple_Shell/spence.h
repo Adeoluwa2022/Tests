@@ -1,5 +1,5 @@
-#ifndef _SPRID_H_
-#define _SPRID_H_
+#ifndef _SPENCE_H_
+#define _SPENCE_H_
 
 #include <stdio.h>
 #include <stdlib.h>

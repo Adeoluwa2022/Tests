@@ -1,4 +1,4 @@
-#include "sprid.h"
+#include "spence.h"
 
 /**
  * **strtow - splits a string into words. Repeat delimiters are ignored
